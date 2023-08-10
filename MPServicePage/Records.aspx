@@ -4,7 +4,7 @@
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
     <div class="col-md-12 mt-3">
-        <asp:GridView ID="GVRecords" CssClass="table table-bordered table-condensed table-responsive table-hover" AutoGenerateColumns="true" runat="server">
+        <asp:GridView ID="GVRecords" CssClass="table table-bordered table-condensed table-responsive table-hover" runat="server">
             <AlternatingRowStyle BackColor="Black" />
             <HeaderStyle BackColor="DarkGray" Font-Bold="true" Font-Size="Medium" ForeColor="White" />
             <RowStyle BackColor="#f5f5f5" />
