@@ -285,13 +285,13 @@ namespace MPServicePage
         protected global::System.Web.UI.WebControls.Label LabelActividadEconomica;
 
         /// <summary>
-        /// Control TextBox3.
+        /// Control TextBoxActividadEconomica.
         /// </summary>
         /// <remarks>
         /// Campo generado automáticamente.
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox3;
+        protected global::System.Web.UI.WebControls.TextBox TextBoxActividadEconomica;
 
         /// <summary>
         /// Control LabelDepartamento.
@@ -328,6 +328,24 @@ namespace MPServicePage
         /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
         /// </remarks>
         protected global::System.Web.UI.WebControls.DropDownList DropDownMunicipio;
+
+        /// <summary>
+        /// Control LabelSolicitudMotivo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label LabelSolicitudMotivo;
+
+        /// <summary>
+        /// Control TextBoxMotivo.
+        /// </summary>
+        /// <remarks>
+        /// Campo generado automáticamente.
+        /// Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox TextBoxMotivo;
 
         /// <summary>
         /// Control ButtonSubmit.

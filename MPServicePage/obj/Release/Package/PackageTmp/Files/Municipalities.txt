@@ -1,0 +1,332 @@
+﻿1,Cobán,1
+2,Santa Cruz Verapaz,1
+3,San Cristóbal Verapaz,1
+4,Tactic,1
+5,Tamahú,1
+6,San Miguel Tucurú,1
+7,Panzóz,1
+8,Senahú,1
+9,San Pedro Carchá,1
+10,San Juan Chamelco,1
+11,San Agustín Lanquín,1
+12,Santa María Cahabón,1
+13,Chisec,1
+14,Chahal,1
+15,Fray Bartolomé de las Casas,1
+16,Santa Catalina La Tinta,1
+17,Raxruhá,1
+18,Salamá,2
+19,San Miguel Chicaj,2
+20,Rabinal,2
+21,Cubulco,2
+22,Granados,2
+23,El Chol,2
+24,San Jerónimo,2
+25,Purulhá,2
+26,Chimaltenango,3
+27,San José Poaquil,3
+28,San Martín Jilotepeque,3
+29,San Juan Comalapa,3
+30,Santa Apolonia,3
+31,Tecpán Guatemala,3
+32,Patzun,3
+33,San Miguel Pochuta,3
+34,Patzicia,3
+35,Santa Cruz Balanyá,3
+36,Acatenango,3
+37,San Pedro Yepocapa,3
+38,San Andrés Itzapa,3
+39,Parramos,3
+40,Zaragoza,3
+41,El Tejar,3
+42,Chiquimula,4
+43,San José La Arada,4
+44,San Juan Hermita,4
+45,Jocotán,4
+46,Camotán,4
+47,Olopa,4
+48,Esquipulas,4
+49,Concepción Las Minas,4
+50,Quezaltepeque,4
+51,San Jacinto,4
+52,Ipala,4
+53,Guatemala,5
+54,Santa Catarina Pinula,5
+55,San José Pinula,5
+56,San José del Golfo,5
+57,Palencia,5
+58,Chinautla,5
+59,San Pedro Ayampuc,5
+60,Mixco,5
+61,San Pedro Sacatepequez,5
+62,San Juan Sacatepequez,5
+63,San Raymundo,5
+64,Chuarrancho,5
+65,Fraijanes,5
+66,Amatitlán,5
+67,Villa Nueva,5
+68,Villa Canales,5
+69,San Miguel Petapa,5
+70,Guastatoya,6
+71,Morazán,6
+72,San Agustín Acasaguastlan,6
+73,San Cristóbal Acasaguastlan,6
+74,El Jícaro,6
+75,Sansare,6
+76,Sanarate,6
+77,San Antonio La Paz,6
+78,Escuintla,7
+79,Santa Lucía Cotzumalguapa,7
+80,La Democracia,7
+81,Siquinalá,7
+82,Masagua,7
+83,Pueblo Nuevo Tiquisate,7
+84,La Gomera,7
+85,Guanagazapa,7
+86,Puerto de San José,7
+87,Iztapa,7
+88,Palín,7
+89,San Vicente Pacaya,7
+90,Nueva Concepción,7
+91,Huehuetenango,8
+92,Chiantla,8
+93,Malacatancito,8
+94,Cuilco,8
+95,Nentón,8
+96,San Pedro Necta,8
+97,Jacaltenango,8
+98,San Pedro Soloma,8
+99,San Ildelfonso Ixtahuac´n,8
+100,Santa Bárbara,8
+101,La Libertad,8
+102,La Democracia,8
+103,San Miguel Acatán,8
+104,San Rafael La Independencia,8
+105,Todos Santos Chuchcumatán,8
+106,San Juan Atitán,8
+107,Santa Eulalia,8
+108,San Mateo Ixtatán,8
+109,Colotenango,8
+110,San Sebastián Huehuetenango,8
+111,Tectitán,8
+112,Concepción Huista,8
+113,San Juan Ixcoy,8
+114,San Antonio Huista,8
+115,San Sebastián Coatán,8
+116,Santa Cruz Barillas,8
+117,Aguacatán,8
+118,San Rafael Petzal,8
+119,San Gaspar Ixchil,8
+120,Santiago Chimaltenango,8
+121,Santa Ana Huista,8
+122,Puerto Barrios,9
+123,Livingston,9
+124,El Estor,9
+125,Morales,9
+126,Los Amates,9
+127,Jalapa,10
+128,San Pedro Pinula,10
+129,San Luis Jilotepeque,10
+130,San Manuel Chaparrón,10
+131,San Carlos Alzatate,10
+132,Monjas,10
+133,Mataquescuintla,10
+134,Jutiapa,11
+135,El Progreso,11
+136,Santa Catarina Mita,11
+137,Agua Blanca,11
+138,Asunción Mita,11
+139,Yupiltepeque,11
+140,Atescatempa,11
+141,Jerez,11
+142,El Adelanto,11
+143,Zapotitlán,11
+144,Comapa,11
+145,Jalpatagua,11
+146,Conguaco,11
+147,Moyuta,11
+148,Pasaco,11
+149,San José Acatempa,11
+150,Quezada,11
+151,Flores,12
+152,San José,12
+153,San Benito,12
+154,San Andrés,12
+155,La Libertad,12
+156,San Francisco,12
+157,Santa Ana,12
+158,Dolores,12
+159,San Luis,12
+160,Sayaxche,12
+161,Melchor de Mencos,12
+162,Poptún,12
+163,Quetzaltenango,13
+164,Salcajá,13
+165,Olintepeque,13
+166,San Carlos Sija,13
+167,Sibilia,13
+168,Cabrican,13
+169,Cajola,13
+170,San Miguel Siguilça,13
+171,San Juan Ostuncalco,13
+172,San Mateo,13
+173,Concepción Chiquirichapa,13
+174,San Martín Sacatepequez,13
+175,Almolonga,13
+176,Cantel,13
+177,Huitán,13
+178,Zunil,13
+179,Colomba,13
+180,San Francisco La Unión,13
+181,El Palmar,13
+182,Coatepeque,13
+183,Génova,13
+184,Flores Costa Cuca,13
+185,La Esperanza,13
+186,Palestina de los Altos,13
+187,Santa Cruz del Quiche,14
+188,Chiche,14
+189,Chinique,14
+190,Zacualpa,14
+191,Chajul,14
+192,Santo Tomás Chichicstenango,14
+193,Patzité,14
+194,San Antonio Ilotenango,14
+195,San Pedro Jocopilas,14
+196,Cunén,14
+197,San Juan Cotzal,14
+198,Joyabaj,14
+199,Santa María Nebaj,14
+200,San Andrés Sajcabajá,14
+201,San Miguel Uspatán,14
+202,Sacapulas,14
+203,San Bartolomé Jocotenango,14
+204,Canilla,14
+205,Chicaman,14
+206,Playa Grnade - Ixcán,14
+207,Pachalúm,14
+208,Retalhuelu,15
+209,San Sebastián,15
+210,Santa Cruz Mulúa,15
+211,San Martín Zapotitlán,15
+212,San Felipe Retalhuleu,15
+213,San Andrés Villa Seca,15
+214,Champerico,15
+215,Nuevo San Carlos,15
+216,El Asintal,15
+217,Antigua Guatemala,16
+218,Jocotenango,16
+219,Pastores,16
+220,Sumpango,16
+221,Santo Domingo Xenacoj,16
+222,Santiago Sacatepequez,16
+223,San Bartolomé Milpas Altas,16
+224,San Lucas Sacatepequez,16
+225,Santa Lucía Milpas Altas,16
+226,Magdalena Milpas Altas,16
+227,Santa María de Jesús,16
+228,Ciudad Vieja,16
+229,San Miguel Dueñas,16
+230,San Juan Alotenango,16
+231,San Antonio Aguas Calientes,16
+232,Santa Catarina Barahona,16
+233,San Marcos,17
+234,San Pedro Sacatepéquez,17
+235,Comitancillo,17
+236,San Antonio Sacatepéquez,17
+237,San Miguel Ixtahuacan,17
+238,Concepción Tutuapa,17
+239,Tacaná,17
+240,Sibinal,17
+241,Tajumulco,17
+242,Tejutla,17
+243,San Rafael Pié de la Cuesta,17
+244,Nuevo Progreso,17
+245,El Tumbador,17
+246,San José El Rodeo,17
+247,Malacatán,17
+248,Catarina,17
+249,Ayutla,17
+250,Ocos,17
+251,San Pablo,17
+252,El Quetzal,17
+253,La Reforma,17
+254,Pajapita,17
+255,Ixchiguan,17
+256,San José Ojetenán,17
+257,San Cristóbal Cucho,17
+258,Sipacapa,17
+259,Esquipulas Palo Gordo,17
+260,Río Blanco,17
+261,San Lorenzo,17
+262,Cuilapa,18
+263,Berberena,18
+264,San Rosa de Lima,18
+265,Casillas,18
+266,San Rafael Las Flores,18
+267,Oratorio,18
+268,San Juan TEcuaco,18
+269,Chiquimulilla,18
+270,Taxisco,18
+271,Santa María Ixhuatan,18
+272,Guazacapán,18
+273,Santa Cruz Naranjo,18
+274,Pueblo Nuevo Viñas,18
+275,Nueva Santa Rosa,18
+276,Sololá,19
+277,San José Chacaya,19
+278,Santa María Visitación,19
+279,Santa Lucía Utatlán,19
+280,Nahualá,19
+281,Santa Catarina Ixtahuacán,19
+282,Santa Clara La Laguna,19
+283,Concepción,19
+284,San Andrés Semetabaj,19
+285,Panajachel,19
+286,Santa Catarina Palopó,19
+287,San Antonio Palopó,19
+288,San Lucas Tolimán,19
+289,Santa Cruz La Laguna,19
+290,Sna Pablo La Laguna,19
+291,San Marcos La Laguna,19
+292,San Juan La Laguna,19
+293,San Pedro La Laguna,19
+294,Santiago Atitlán,19
+295,Mazatenango,20
+296,Cuyotenango,20
+297,San Francisco Zapotitlán,20
+298,San Bernardino,20
+299,San José El Ídolo,20
+300,Santo Domingo Suchitepequez,20
+301,San Lorenzo,20
+302,Samayac,20
+303,San Pablo Jocopilas,20
+304,San Antonio Suchitepéquez,20
+305,San Miguel Panán,20
+306,San Gabriel,20
+307,Chicacao,20
+308,Patulul,20
+309,Santa Bárbara,20
+310,San Juan Bautista,20
+311,Santo Tomás La Unión,20
+312,Zunilito,20
+313,Pueblo Nuevo Suchitepéquez,20
+314,Río Bravo,20
+315,otonicapán,21
+316,San Cristóbal Totonicapán,21
+317,San Francisco El Alto,21
+318,San Andrés Xecul,21
+319,Momostenango,21
+320,Santa María Chiquimula,21
+321,Santa Lucía La Reforma,21
+322,San Bartolo Aguas Calientes,21
+323,Zacapa,22
+324,Estanzuela,22
+325,Río Hondo,22
+326,gualán,22
+327,Teculután,22
+328,Usumatlán,22
+329,Cabañas,22
+330,San Diego,22
+331,La Unión,22
+332,Huite,22

@@ -34,6 +34,12 @@ namespace MPServicePage
             recordsDataTable.Columns.Add("Segundo Apellido");
             recordsDataTable.Columns.Add("Apellido de Casada");
             recordsDataTable.Columns.Add("Telefono Celular");
+            recordsDataTable.Columns.Add("Nombre de Institucion");
+            recordsDataTable.Columns.Add("Telefono de Institucion");
+            recordsDataTable.Columns.Add("Actividad academica");
+            recordsDataTable.Columns.Add("Departamento");
+            recordsDataTable.Columns.Add("Municipio");
+            recordsDataTable.Columns.Add("Motivo");
 
             int id = 1;
             using (StreamReader file = new StreamReader(Server.MapPath(pathRegisters)))

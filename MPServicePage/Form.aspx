@@ -96,8 +96,8 @@
                     <asp:TextBox ID="TextBoxTelefonoInstitucion" TextMode="Number" runat="server"></asp:TextBox>
                 </div>
                 <div class="col-md-4 col-sm-12">
-                    <asp:Label ID="LabelActividadEconomica" CssClass="form-control-plaintext" AssociatedControlID="TextBoxThirdName" runat="server" Text="Actividad económica/ ocupación / Oficio:"></asp:Label>
-                    <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+                    <asp:Label ID="LabelActividadEconomica" CssClass="form-control-plaintext" AssociatedControlID="TextBoxActividadEconomica" runat="server" Text="Actividad económica/ ocupación / Oficio:"></asp:Label>
+                    <asp:TextBox ID="TextBoxActividadEconomica" runat="server"></asp:TextBox>
                 </div>
             </div>
         </div>
@@ -105,11 +105,17 @@
     <div class="row margin-row mt-5">
         <div class="col-md-6 col-sm-12">
             <asp:Label ID="LabelDepartamento" CssClass="form-control-plaintext" AssociatedControlID="DropDownDepartamento" runat="server" Text="Departamento que trabajará:"></asp:Label>
-            <asp:DropDownList ID="DropDownDepartamento" CssClass="form-control" runat="server"></asp:DropDownList>
+            <asp:DropDownList ID="DropDownDepartamento" CssClass="form-control" AutoPostBack="true" runat="server" OnSelectedIndexChanged="DropDownDepartamento_SelectedIndexChanged"></asp:DropDownList>
         </div>
         <div class="col-md-6 col-sm-12">
             <asp:Label ID="LabelMunicipio" CssClass="form-control-plaintext" AssociatedControlID="DropDownMunicipio" runat="server" Text="Municipio que trabajará:"></asp:Label>
             <asp:DropDownList ID="DropDownMunicipio" CssClass="form-control" runat="server"></asp:DropDownList>
+        </div>
+    </div>
+    <div class="row margin-row mt-5">
+        <div class="col-md-12">
+            <asp:Label ID="LabelSolicitudMotivo" CssClass="form-control-plaintext" AssociatedControlID="TextBoxMotivo" runat="server" Text="Motivo de solicitud:"></asp:Label>
+            <asp:TextBox ID="TextBoxMotivo" CssClass="form-control" TextMode="MultiLine" runat="server"></asp:TextBox>
         </div>
     </div>
     <div class="row text-center">

@@ -1,0 +1,17 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Principal.Master" AutoEventWireup="true" CodeBehind="Records.aspx.cs" Inherits="MPServicePage.Records" %>
+
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <div class="row">
+        <div class="col-md-12 mt-3">
+            <asp:GridView ID="GVRecords"  CssClass="table thead-dark table-striped table-bordered table-condensed table-responsive-lg text-nowrap table-hover" AutoGenerateColumns="true" runat="server">
+                <AlternatingRowStyle BackColor="Black" />
+                <HeaderStyle BackColor="DarkGray" Font-Bold="true" Font-Size="Medium" ForeColor="White" />
+                <RowStyle BackColor="#f5f5f5" />
+                <SelectedRowStyle BackColor="#669999" Font-Bold="true" ForeColor="White" /> 
+            </asp:GridView>
+        </div>
+    </div>
+
+</asp:Content>
