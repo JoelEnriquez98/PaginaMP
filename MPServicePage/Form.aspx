@@ -81,6 +81,37 @@
             </div>
         </div>
     </div>
+    <div class="row margin-row mt-5">
+        <div class="col-12">
+            <h5 class="display-8">Datos del lugar donde trabajará:</h5>
+        </div>
+        <div class="col-12">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <asp:Label ID="LabelNombreInstitucion" CssClass="form-control-plaintext" AssociatedControlID="TextBoxNombreInstitucion" runat="server" Text="Nombre de institución:"></asp:Label>
+                    <asp:TextBox ID="TextBoxNombreInstitucion" Required="true" runat="server"></asp:TextBox>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <asp:Label ID="LabelTelefonoInstitucion" CssClass="form-control-plaintext" AssociatedControlID="TextBoxTelefonoInstitucion" runat="server" Text="Teléfono de institución:"></asp:Label>
+                    <asp:TextBox ID="TextBoxTelefonoInstitucion" TextMode="Number" runat="server"></asp:TextBox>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <asp:Label ID="LabelActividadEconomica" CssClass="form-control-plaintext" AssociatedControlID="TextBoxThirdName" runat="server" Text="Actividad económica/ ocupación / Oficio:"></asp:Label>
+                    <asp:TextBox ID="TextBox3" runat="server"></asp:TextBox>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row margin-row mt-5">
+        <div class="col-md-6 col-sm-12">
+            <asp:Label ID="LabelDepartamento" CssClass="form-control-plaintext" AssociatedControlID="DropDownDepartamento" runat="server" Text="Departamento que trabajará:"></asp:Label>
+            <asp:DropDownList ID="DropDownDepartamento" CssClass="form-control" runat="server"></asp:DropDownList>
+        </div>
+        <div class="col-md-6 col-sm-12">
+            <asp:Label ID="LabelMunicipio" CssClass="form-control-plaintext" AssociatedControlID="DropDownMunicipio" runat="server" Text="Municipio que trabajará:"></asp:Label>
+            <asp:DropDownList ID="DropDownMunicipio" CssClass="form-control" runat="server"></asp:DropDownList>
+        </div>
+    </div>
     <div class="row text-center">
         <div class="col">
             <asp:Button CssClass="btn btn-success mt-3 mb-3" ID="ButtonSubmit" runat="server" Text="Solicitar Certificado" OnClick="ButtonSubmit_Click" />
